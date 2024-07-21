@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://femantic.github.io/sitemap
+Sitemap: https://femantic.github.io/app/sitemap
+Sitemap: https://femantic.github.io/assets/sitemap
+Sitemap: https://femantic.github.io/css/sitemap
+Sitemap: https://femantic.github.io/includes/sitemap
+Sitemap: https://femantic.github.io/item/sitemap
+Sitemap: https://femantic.github.io/src/sitemap
